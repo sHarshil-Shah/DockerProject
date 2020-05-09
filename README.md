@@ -7,4 +7,7 @@ Simple docker project with Wordpress + MySQL connection of simple Blog Website.
 3. Go to docker-compose.yml 
 4. run docker-compose run
 
-Whole environment will be set up on its own. Downloading of dependencies will be done if required, and then one can check http://hostip:8081 to go to wordpress blogsite.
+Whole environment will be set up on its own. Downloading of dependencies will be done if required, and then one can check http://<hostip>:8081 to go to wordpress blogsite.
+  
+  
+hostip  can be get via ipconfig on Windows or ifconfig on Llinux hosts.
