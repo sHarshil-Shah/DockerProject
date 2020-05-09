@@ -1,5 +1,5 @@
 # DockerProject
-Simple docker project with wordpress + mysql connection of simple Blog Website
+Simple docker project with Wordpress + MySQL connection of simple Blog Website.
 
 
 1. Set Up docker environment.
